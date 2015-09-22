@@ -1,0 +1,22 @@
+baseurl:
+permalink: /:year/:month/:day/:title
+highlighter: pygments
+paginate: 5
+paginate_path: "/page:num"
+
+safe: false
+
+title: ZMB Student Council Online Board
+keywords: "ZMB Student Council"
+description: ZMB Student Council
+url: http://board.jlhszmb.tk/
+feed: /atom.xml
+favicon: /images/icon.ico
+
+author:
+    name: Liu
+    email: liuxy6@gmail.com
+
+duoshuo:
+    config: true
+    id: zmbsc

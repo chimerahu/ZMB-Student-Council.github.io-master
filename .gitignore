@@ -1,0 +1,9 @@
+server/
+_drafts/
+_site/
+.DS_Store
+*.swp
+Gemfile
+Gemfile.lock
+
+*.html
